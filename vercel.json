@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    { "source": "/cadastro", "destination": "/index.html" },
+    { "source": "/cadastro/:id/editar", "destination": "/index.html" },
+    { "source": "/lista", "destination": "/index.html" },
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
