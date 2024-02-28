@@ -27,7 +27,6 @@ FormContainer.Label = FormLabel;
 FormContainer.Input = FormInput;
 FormContainer.Select = FormSelectContainer;
 FormContainer.Option = FormSelectOption;
-FormContainer.Conta = FormContainer;
 FormContainer.Checkbox = FormCheckbox;
 FormContainer.CheckboxOption = FormCheckboxOption;
 FormContainer.ButtonContainer = ButtonContainer;
