@@ -51,3 +51,9 @@ Este projeto utiliza várias rotas para diferentes funcionalidades. Abaixo está
 
 - **Descrição**: Em caso de erro ou acesso a uma rota inexistente, os usuários serão redirecionados para esta página de erro, que fornece uma mensagem informativa sobre o erro ocorrido.
 
+
+
+
+
+# Live preview
+[Desafio CRUD | UNIVALI](https://desafio-univali-blush.vercel.app/)
